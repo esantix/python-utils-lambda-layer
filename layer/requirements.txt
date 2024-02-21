@@ -1,0 +1,2 @@
+# git+ssh://git@github.com/esantix/pip-package-template#egg=utils-esantix
+requests
